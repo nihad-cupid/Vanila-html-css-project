@@ -1,0 +1,51 @@
+.body{
+  font-family: "Inter", sans-serif;
+  
+
+}
+/* nav start */
+nav{
+    margin: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.mainlogo{
+        font-family: "Lobster", sans-serif;
+        font-weight: 400;   
+        } 
+.dot{
+    color: orange;
+}       
+.nav-main{
+    font-family: "Inter", sans-serif;    
+}
+.nav-1{
+    display: flex;
+    list-style: none;
+    gap: 60px;
+    font-size: 16px;
+}
+.nav-1 a{
+    text-decoration: none;
+    color: black;
+}
+.nav-2{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+hr {
+    margin-top: -60px;
+    background-color: gray;
+}
+/* nav bar end */
+/* banner section start  */
+.banner-1{
+    width: 620px;
+    height: 640px;
+    background-color: rgb(188, 238, 238);
+    margin-inline-start: 50px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    
+}
